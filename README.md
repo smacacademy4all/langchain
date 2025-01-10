@@ -1,6 +1,6 @@
 # 🦜️🔗 LangChain
 
-⚡ Build context-aware reasoning applications ⚡
+⚡ Build context-aware reasoning applications ⚡ 
 
 [![Release Notes](https://img.shields.io/github/release/langchain-ai/langchain?style=flat-square)](https://github.com/langchain-ai/langchain/releases)
 [![CI](https://github.com/langchain-ai/langchain/actions/workflows/check_diffs.yml/badge.svg)](https://github.com/langchain-ai/langchain/actions/workflows/check_diffs.yml)
